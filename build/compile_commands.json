@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Documentos/MusicPlayerVV-main/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/program.dir/includes_CXX.rsp -Wall -O3 -DNDEBUG -o CMakeFiles/program.dir/src/main.cpp.obj -c D:/Documentos/MusicPlayerVV-main/src/main.cpp",
+  "file": "D:/Documentos/MusicPlayerVV-main/src/main.cpp",
+  "output": "CMakeFiles/program.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Documentos/MusicPlayerVV-main/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/program.dir/includes_CXX.rsp -Wall -O3 -DNDEBUG -o CMakeFiles/program.dir/src/func.cpp.obj -c D:/Documentos/MusicPlayerVV-main/src/func.cpp",
+  "file": "D:/Documentos/MusicPlayerVV-main/src/func.cpp",
+  "output": "CMakeFiles/program.dir/src/func.cpp.obj"
+}
+]

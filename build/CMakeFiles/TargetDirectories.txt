@@ -1,0 +1,3 @@
+D:/Documentos/MusicPlayerVV-main/build/CMakeFiles/program.dir
+D:/Documentos/MusicPlayerVV-main/build/CMakeFiles/edit_cache.dir
+D:/Documentos/MusicPlayerVV-main/build/CMakeFiles/rebuild_cache.dir
